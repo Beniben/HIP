@@ -1,7 +1,7 @@
-# Community Entry Gate
+# Community Knowledge Initiative
 
-- Author(s): Rob#8633
-- Start Date: 2021-10-27
+- Author(s): Beniben#8033
+- Start Date: 2021-11-14
 - Category: Community
 - Original HIP PR: <!-- leave this empty; maintainer will fill in ID of this pull request -->
 - Tracking Issue: <!-- leave this empty; maintainer will create a discussion issue -->
@@ -19,9 +19,8 @@ Many community members find it difficult to answer the same thing several times 
 # Stakeholders
 [stakeholders]: #stakeholders
  
-* Who is affected by this HIP? - All Helium Discord Community Members.
-* How are we soliciting feedback on this HIP from these stakeholders? - Discord channel for discussion, HIP
-  only affects the Discord community.
+* Who is affected by this HIP? - All current and future Helium Users.
+* How are we soliciting feedback on this HIP from these stakeholders? - Discord channel for discussion
 
 # Detailed Explanation
 [detailed-explanation]: #detailed-explanation
