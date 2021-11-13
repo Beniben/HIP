@@ -9,19 +9,12 @@
 # Summary
 [summary]: #summary
 
-The Helium community has become overrun with inexperienced members who have not taken the time to
-do even the most basic of research into the network, the technology, and the reward token. This has
-had a detrimental effect on the community and creates a poor experience for all. This HIP proposes
-a solution to help educate prospective community members and provide an entry gate to the Discord server.
+As time goes by, we get a new set of users on Discord every day who haven't had much experience with the Helium network. It is time to offer these users another source of information besides Discord and scattered internet guides. Unfortunately, there are also enough people who don't know Discord themselves and have become aware of the project through others. A wiki or documentation would give these people more information about the network without being on Discord themselves. The idea behind this HIP is to give new users a platform where all information about the Helium network is compiled in one place by the community, based on the already experienced users who share their knowledge on a voluntary basis.
 
 # Motivation
 [motivation]: #motivation
 
-Many community members are becoming fed up of answering the same questions and having the community as a
-brothel for opportunists prostituting out their consultancy, 50 gazillion dBi antennas and other nonsense
-to new members who do not have a decent understanding. Through education of new members and requiring a basic
-entry test we can increase the quality of the community, reduce frustration for existing members and prevent
-new members falling victims of opportunists taking advantage of their situation.
+Many community members find it difficult to answer the same thing several times on a daily basis. There are daily questions about current manufacturers, delivery times or which antenna is best or which connection a hotspot has. A platform that combines such information would make it easier for both new and old users and would allow them to concentrate on other things. The quality of conversations would also be much better if everyone had the same level of information in one place. 
 
 # Stakeholders
 [stakeholders]: #stakeholders
